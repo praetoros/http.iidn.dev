@@ -1,0 +1,6 @@
+@http.iidn.dev_HostAddress = http://localhost:5263
+
+GET {{http.iidn.dev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

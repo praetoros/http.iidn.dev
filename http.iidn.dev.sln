@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "http.iidn.dev", "http.iidn.dev.csproj", "{AE6F2C05-C76A-4F5F-AD3C-BB892F962779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6F2C05-C76A-4F5F-AD3C-BB892F962779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6F2C05-C76A-4F5F-AD3C-BB892F962779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6F2C05-C76A-4F5F-AD3C-BB892F962779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6F2C05-C76A-4F5F-AD3C-BB892F962779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
